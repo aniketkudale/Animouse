@@ -3,7 +3,7 @@ Developer - Aniket Eknath Kudale
 https://github.com/aniketkudale/Animouse
 -----------------------------------------------------------------------
 
-Animouse is a free and open source software which allow user to control computer cursor by the movement of face/head. It makes use of webcam to track down movements or motions made by user's head.
+Animouse is a free and open source software which allow user to control computer cursor by the movement of face/head. It makes use of webcam to track down movements or motions made by user's head. Made using OpenCV.
 
 Please let me know if you have any feedback, suggestions or comments. 
 
