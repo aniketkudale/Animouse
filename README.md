@@ -1,5 +1,5 @@
 #Animouse v 1.0
-Developer - Aniket Eknath Kudale
+Developer - Aniket Kudale
 https://github.com/aniketkudale/Animouse
 -----------------------------------------------------------------------
 
