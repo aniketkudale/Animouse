@@ -7,8 +7,6 @@ Animouse is a free and open source software which allow user to control computer
 
 Please let me know if you have any feedback, suggestions or comments. 
 
-Email me: aniket.kudale[at]hotmail.com
-
 Copyright (C) 2015 Aniket Kudale. All right reserved.
 
 This program is free software: you can redistribute it and/or modify
